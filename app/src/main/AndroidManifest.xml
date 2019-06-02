@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admin.testyourskills">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".SelectCategory" />
+        <activity android:name=".LangTopics" />
+        <activity android:name=".Apt_Topics" />
+        <activity android:name=".C" />
+        <activity android:name=".Java" />
+        <activity android:name=".CPlus" />
+        <activity android:name=".cqn2" />
+        <activity android:name=".cqn3" />
+        <activity android:name=".cqn4" />
+        <activity android:name=".cpqn2" />
+        <activity android:name=".cpqn3" />
+        <activity android:name=".cpqn4" />
+        <activity android:name=".cpqn5" />
+        <activity android:name=".jqn2" />
+        <activity android:name=".jqn3" />
+        <activity android:name=".jqn4" />
+        <activity android:name=".jqn5" />
+        <activity android:name=".cqn5" />
+        <activity android:name=".nqn1" />
+        <activity android:name=".nqn2" />
+        <activity android:name=".nqn3" />
+        <activity android:name=".scqn1" />
+        <activity android:name=".scqn2" />
+        <activity android:name=".scqn3" />
+        <activity android:name=".avqn1" />
+        <activity android:name=".avqn2" />
+        <activity android:name=".avqn3" />
+        <activity android:name=".agqn1" />
+        <activity android:name=".agqn2" />
+        <activity android:name=".agqn3" />
+        <activity android:name=".pqn1" />
+        <activity android:name=".pqn2" />
+        <activity android:name=".pqn3" />
+        <activity android:name=".plqn1" />
+        <activity android:name=".plqn2" />
+        <activity android:name=".plqn3" />
+        <activity android:name=".twqn1" />
+        <activity android:name=".twqn2" />
+        <activity android:name=".twqn3" />
+        <activity android:name=".tdqn1" />
+        <activity android:name=".tdqn2" />
+        <activity android:name=".tdqn3" />
+        <activity android:name=".tqn1" />
+        <activity android:name=".tqn2" />
+        <activity android:name=".tqn3" />
+        <activity android:name=".bsqn1" />
+        <activity android:name=".bsqn2" />
+        <activity android:name=".bsqn3" />
+        <activity android:name=".siciqn1" />
+        <activity android:name=".siciqn2" />
+        <activity android:name=".siciqn3" />
+        <activity android:name=".pbqn1" />
+        <activity android:name=".pbqn2" />
+        <activity android:name=".pbqn3" />
+        <activity android:name=".rpqn1" />
+        <activity android:name=".rpqn2" />
+        <activity android:name=".rpqn3" />
+        <activity android:name=".calqn1" />
+        <activity android:name=".calqn2" />
+        <activity android:name=".calqn3" />
+        <activity android:name=".cloqn1" />
+        <activity android:name=".cloqn2" />
+        <activity android:name=".cloqn3" />
+        <activity android:name=".cscore" />
+    </application>
+
+</manifest>
